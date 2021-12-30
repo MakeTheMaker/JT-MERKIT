@@ -165,7 +165,7 @@ var $indicators = $('<ol>')
       var opts = {
         allowOutsideClick : false,
         allowEscapeKey : false,
-        confirmButtonText: "Next Question",
+        confirmButtonText: "Seuraava kysymys",
         html : true,
         confirmButtonColor: "#0096D2"
       };
