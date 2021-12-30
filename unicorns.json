@@ -1,0 +1,1068 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Nopeusmerkki",
+        "Nopeusmerkin etumerkki",
+        "Merkitty nopeus p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "JKV-nopeus"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Nopeusmerkki osoittaa kohdan, jonka j\u00c3\u00a4lkeen yksik\u00c3\u00b6n nopeus saa olla enint\u00c3\u00a4\u00c3\u00a4n merkin tai yksik\u00c3\u00b6n kulunvalvonnan veturilaitteen osoittama nopeus, huomioiden V\u00c3\u00a4yl\u00c3\u00a4viraston ohjeessa \"Junaliikenteen ja vaihtoty\u00c3\u00b6n turvallisuuss\u00c3\u00a4\u00c3\u00a4nn\u00c3\u00b6t (Jt)\" asetetut junaliikennett\u00c3\u00a4 ja vaihtoty\u00c3\u00b6t\u00c3\u00a4 koskevat rajoitteet yksik\u00c3\u00b6n suurimmalle nopeudelle."
+      },
+      "image": "img/img1.jpg",
+      "number": 1,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "JKV-nopeus",
+        "Nopeusmerkki",
+        "Erityiskohteen nopeusmerkki",
+        "Nopeusmerkin etumerkki",
+        "Merkitty nopeus p\u00c3\u00a4\u00c3\u00a4ttyy"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Nopeusmerkin etumerkki osoittaa, ett\u00c3\u00a4 jollakin kulkureitill\u00c3\u00a4 et\u00c3\u00a4isyydell\u00c3\u00a4 600\u00e2\u20ac\u201c2000 m on Nopeusmerkki, joka osoittaa merkin luvun mukaista nopeutta."
+      },
+      "image": "img/img2.jpg",
+      "number": 2,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Nopeusmerkin etumerkki",
+        "Nopeusmerkki",
+        "JKV-nopeus",
+        "Erityiskohteen nopeusmerkki",
+        "Merkitty nopeus p\u00c3\u00a4\u00c3\u00a4ttyy"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Merkitty nopeus p\u00c3\u00a4\u00c3\u00a4ttyy -merkki palauttaa suurimmaksi sallituksi nopeudeksi 35 km/h. Merkitty nopeus p\u00c3\u00a4\u00c3\u00a4ttyy -merkki\u00c3\u00a4 saa k\u00c3\u00a4ytt\u00c3\u00a4\u00c3\u00a4 vain raiteella, jolla nopeus on enint\u00c3\u00a4\u00c3\u00a4n 35 km/h."
+      },
+      "image": "img/img3.jpg",
+      "number": 3,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Nopeusmerkki",
+        "Nopeusmerkin etumerkki",
+        "Merkitty nopeus p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "JKV-nopeus",
+        "Erityiskohteen nopeusmerkki"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "JKV-nopeus -merkki osoittaa, ett\u00c3\u00a4 merkin j\u00c3\u00a4lkeen yksik\u00c3\u00b6n nopeus saa olla enint\u00c3\u00a4\u00c3\u00a4n kulunvalvonnan veturilaitteen osoittama nopeus tai enint\u00c3\u00a4\u00c3\u00a4n 80 km/h, jos kulunvalvonnan -veturilaite ei n\u00c3\u00a4yt\u00c3\u00a4 nopeutta."
+      },
+      "image": "img/img4.jpg",
+      "number": 4,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Nopeusmerkki",
+        "Merkitty nopeus p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "JKV-nopeus",
+        "Nopeusmerkin etumerkki",
+        "Erityiskohteen nopeusmerkki"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Erityiskohteen nopeusmerkki osoittaa nopeutta, joka yksik\u00c3\u00b6ll\u00c3\u00a4 saa enint\u00c3\u00a4\u00c3\u00a4n olla merkin ilmoittamassa kohteessa."
+      },
+      "image": "img/img5.jpg",
+      "number": 5,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Laske virroitin etumerkki",
+        "Seismerkki",
+        "Seislevy",
+        "Laske virroitin",
+        "Liikenn\u00c3\u00b6innin raja"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Laske virroitin -merkki osoittaa kohdan, jota ei saa ohittaa virroitin nostettuna."
+      },
+      "image": "img/img6.jpg",
+      "number": 6,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Laske virroitin etumerkki",
+        "Seismerkki",
+        "Laske virroitin",
+        "Liikenn\u00c3\u00b6innin raja",
+        "Seislevy"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Laske virroitin etumerkki (kuva 1.9:1) osoittaa, ett\u00c3\u00a4 merkist\u00c3\u00a4 jollakin mahdollisella kulkureitill\u00c3\u00a4 1500\u00e2\u20ac\u201c2000 metrin p\u00c3\u00a4\u00c3\u00a4ss\u00c3\u00a4 on Laske virroitin -merkki."
+      },
+      "image": "img/img7.jpg",
+      "number": 7,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Seislevy",
+        "Laske virroitin",
+        "Laske virroitin etumerkki",
+        "Seismerkki",
+        "Liikenn\u00c3\u00b6innin raja"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Seismerkill\u00c3\u00a4 (kuva 1.10:1) osoitetaan kohta, jota ei saa ohittaa ilman liikenteenohjauksen lupaa. Merkki\u00c3\u00a4 tulee noudattaa vaihto- ja rataty\u00c3\u00b6ss\u00c3\u00a4. Junaliikenteess\u00c3\u00a4 merkki\u00c3\u00a4 on pyritt\u00c3\u00a4v\u00c3\u00a4 noudattamaan kuten ilman ennakkotietoa tulevaa Seis -opastetta."
+      },
+      "image": "img/img8.jpg",
+      "number": 8,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Seislevy",
+        "Laske virroitin etumerkki",
+        "Laske virroitin",
+        "Seismerkki",
+        "Liikenn\u00c3\u00b6innin raja"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Seislevy tarkoittaa rataverkon raiteen kohtaa, jonka yli rautatiekalusto ei saa liikkua."
+      },
+      "image": "img/img9.jpg",
+      "number": 9,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Seislevy",
+        "Laske virroitin etumerkki",
+        "Laske virroitin",
+        "Seismerkki",
+        "Liikenn\u00c3\u00b6innin raja"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Liikenn\u00c3\u00b6innin raja -merkki (kuva 1.12:1) osoittaa, ett\u00c3\u00a4 merkist\u00c3\u00a4 alkaa alue, jolla ei saa liikenn\u00c3\u00b6id\u00c3\u00a4."
+      },
+      "image": "img/img10.jpg",
+      "number": 10,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Liikennepaikka p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Liikennepaikka alkaa",
+        "Toisen luokan liikenteenohjaus",
+        "Ensimm\u00c3\u00a4isen luokan liikenteenohjaus"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/img11.jpg",
+      "number": 11,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Toisen luokan liikenteenohjaus",
+        "Liikennepaikka alkaa",
+        "Ensimm\u00c3\u00a4isen luokan liikenteenohjaus",
+        "Liikennepaikka p\u00c3\u00a4\u00c3\u00a4ttyy"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Liikennepaikka p\u00c3\u00a4\u00c3\u00a4ttyy -merkki (kuva 1.14:1) osoittaa kohdan, jossa sen osoittamalla raiteella on liikennepaikan raja ja liikennepaikka p\u00c3\u00a4\u00c3\u00a4ttyy."
+      },
+      "image": "img/img12.jpg",
+      "number": 12,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Liikennepaikka p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Liikennepaikka alkaa",
+        "Toisen luokan liikenteenohjaus",
+        "Ensimm\u00c3\u00a4isen luokan liikenteenohjaus"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Ensimm\u00c3\u00a4isen luokan liikenteenohjaus -merkki (kuva 1.15:1) osoittaa ensimm\u00c3\u00a4isen luokan liikenteenohjauksen rajan."
+      },
+      "image": "img/img13.jpg",
+      "number": 13,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Liikennepaikka p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Liikennepaikka alkaa",
+        "Toisen luokan liikenteenohjaus",
+        "Ensimm\u00c3\u00a4isen luokan liikenteenohjaus"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Toisen luokan liikenteenohjaus -merkki (kuva 1.16:1) osoittaa toisen luokan liikenteenohjauksen rajan. Merkin tekstin\u00c3\u00a4 oleva tunnus on kyseisen alueen nimi."
+      },
+      "image": "img/img14.jpg",
+      "number": 14,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Ajojohdin p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Nosta virroitin",
+        "Erotusjakson etumerkki",
+        "Erotusjakso alkaa",
+        "Erotusjakso p\u00c3\u00a4\u00c3\u00a4ttyy"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Erotusjakson etumerkki (kuva 1.17:1) osoittaa, ett\u00c3\u00a4 700\u00e2\u20ac\u201c1500 m p\u00c3\u00a4\u00c3\u00a4ss\u00c3\u00a4 on Erotusjakso alkaa -merkki."
+      },
+      "image": "img/img15.jpg",
+      "number": 15,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Nosta virroitin",
+        "Erotusjakso alkaa",
+        "Erotusjakson etumerkki",
+        "Erotusjakso p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Ajojohdin p\u00c3\u00a4\u00c3\u00a4ttyy"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Erotusjakso alkaa -merkki (kuva 1.18:1) osoittaa, ett\u00c3\u00a4 merkin j\u00c3\u00a4lkeen enint\u00c3\u00a4\u00c3\u00a4n 150 m p\u00c3\u00a4\u00c3\u00a4ss\u00c3\u00a4 on erotusjakso."
+      },
+      "image": "img/img16.jpg",
+      "number": 16,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Erotusjakso p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Ajojohdin p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Erotusjakson etumerkki",
+        "Nosta virroitin",
+        "Erotusjakso alkaa"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Erotusjakso p\u00c3\u00a4\u00c3\u00a4ttyy -merkki (kuva 1.19:1) osoittaa, ett\u00c3\u00a4 erotusjakso on p\u00c3\u00a4\u00c3\u00a4ttynyt."
+      },
+      "image": "img/img17.jpg",
+      "number": 17,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Erotusjakso p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Erotusjakson etumerkki",
+        "Ajojohdin p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Nosta virroitin",
+        "Erotusjakso alkaa"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Nosta virroitin -merkki (kuva 1.20:1) osoittaa merkin tarkoittamalla raiteella kohdan, jonka j\u00c3\u00a4lkeen virroitin saa olla nostettuna."
+      },
+      "image": "img/img18.jpg",
+      "number": 18,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Erotusjakson etumerkki",
+        "Erotusjakso p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Ajojohdin p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Erotusjakso alkaa",
+        "Nosta virroitin"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Ajojohdin p\u00c3\u00a4\u00c3\u00a4ttyy -merkki (kuva 1.21:1) osoittaa, ett\u00c3\u00a4 merkin j\u00c3\u00a4lkeen ajojohdin p\u00c3\u00a4\u00c3\u00a4ttyy ja ett\u00c3\u00a4 virroitin ei saa olla nostettuna."
+      },
+      "image": "img/img19.jpg",
+      "number": 19,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Paikantamismerkki",
+        "Paikantamismerkin lis\u00c3\u00a4kilpi",
+        "Paikantamismerkin lis\u00c3\u00a4kilven ennakkokilpi",
+        "Paikantamiskilpi",
+        "Paikantamismerkin lis\u00c3\u00a4kilven kohdekilpi"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Paikantamismerkki (kuva 1.22:1) osoittaa sijainnin paikannuksessa k\u00c3\u00a4ytett\u00c3\u00a4v\u00c3\u00a4n kohdan radassa."
+      },
+      "image": "img/img20.jpg",
+      "number": 20,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Paikantamismerkin lis\u00c3\u00a4kilpi",
+        "Paikantamismerkin lis\u00c3\u00a4kilven ennakkokilpi",
+        "Paikantamismerkki",
+        "Paikantamiskilpi",
+        "Paikantamismerkin lis\u00c3\u00a4kilven kohdekilpi"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Paikantamismerkin lis\u00c3\u00a4kilven kohdekilpi osoittaa, ett\u00c3\u00a4 et\u00c3\u00a4isyys seuraavaan Paikantamismerkkiin on alle 800 m tai yli 1200 m ja/tai seuraavan Paikantamismerkin lukuarvon, jos se ei ole merkin yhteydess\u00c3\u00a4 olevan Paikantamismerkin lukuarvoa seuraava. Merkiss\u00c3\u00a4 osoitetaan tarvittaessa liikennepaikkav\u00c3\u00a4li, jolla on sen tarkoittama Paikantamismerkki. Liikennepaikkav\u00c3\u00a4li ilmoitetaan liikennepaikkojen virallisilla lyhenteill\u00c3\u00a4."
+      },
+      "image": "img/img21.jpg",
+      "number": 21,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Paikantamismerkin lis\u00c3\u00a4kilpi",
+        "Paikantamismerkin lis\u00c3\u00a4kilven ennakkokilpi",
+        "Paikantamismerkin lis\u00c3\u00a4kilven kohdekilpi",
+        "Paikantamiskilpi",
+        "Paikantamismerkki"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Paikantamismerkin lis\u00c3\u00a4kilven ennakkokilpi osoittaa ennakkotietona kulkusuunnalla seuraavan Paikantamismerkin yhteydess\u00c3\u00a4 olevan Paikantamismerkin lis\u00c3\u00a4kilven kohdekilvess\u00c3\u00a4 olevan tiedon. Merkiss\u00c3\u00a4 osoitetaan tarvittaessa liikennepaikkav\u00c3\u00a4li, jota sen tarkoittaman kohdekilven tieto koskee. Liikennepaikkav\u00c3\u00a4li ilmoitetaan liikennepaikkojen virallisilla lyhenteill\u00c3\u00a4."
+      },
+      "image": "img/img22.jpg",
+      "number": 22,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Raiteen rajamerkki",
+        "Tunnelin nimikilpi",
+        "Tasoristeyksen lis\u00c3\u00a4kilpi",
+        "Matkustajalaiturin ennakkomerkki",
+        "Rataverkon haltijuuden raja",
+        "Linjavaihdemerkki"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Linjavaihdemerkki (kuva 1.24:1) sijaitsee 60\u00e2\u20ac\u201c100 m ennen linjavaihdetta. Merkin tekstin\u00c3\u00a4 on kyseisen linjavaihteen nimi."
+      },
+      "image": "img/img23.jpg",
+      "number": 23,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Baliisiryhm\u00c3\u00a4n etumerkki",
+        "JKV alkaa",
+        "JKV p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "JKV-nopeus",
+        "JKV-rakennusalue alkaa",
+        "Baliisiryhm\u00c3\u00a4merkki"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "JKV alkaa -merkki (kuva 1.25:1) osoittaa junien kulunvalvontaj\u00c3\u00a4rjestelm\u00c3\u00a4n ratalaitteilla varustetun raiteen alkamisen."
+      },
+      "image": "img/img24.jpg",
+      "number": 24,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Baliisiryhm\u00c3\u00a4n etumerkki",
+        "JKV-nopeus",
+        "JKV-rakennusalue alkaa",
+        "JKV alkaa",
+        "JKV p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "Baliisiryhm\u00c3\u00a4merkki"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "JKV p\u00c3\u00a4\u00c3\u00a4ttyy -merkki (kuva 1.26:1) osoittaa junien kulunvalvontaj\u00c3\u00a4rjestelm\u00c3\u00a4n ratalaitteilla varustetun raiteen p\u00c3\u00a4\u00c3\u00a4ttymisen."
+      },
+      "image": "img/img25.jpg",
+      "number": 25,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "JKV alkaa",
+        "Baliisiryhm\u00c3\u00a4n etumerkki",
+        "JKV p\u00c3\u00a4\u00c3\u00a4ttyy",
+        "JKV-nopeus",
+        "JKV-rakennusalue alkaa",
+        "Baliisiryhm\u00c3\u00a4merkki"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "JKV rakennusalue alkaa -merkki (kuva 1.27:1) osoittaa junien kulunvalvontaj\u00c3\u00a4rjestelm\u00c3\u00a4n rakennusalueen alkamisen."
+      },
+      "image": "img/img26.jpg",
+      "number": 26,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Baliisiryhm\u00c3\u00a4n etumerkki",
+        "JKV-rakennusalue alkaa",
+        "Baliisiryhm\u00c3\u00a4merkki",
+        "JKV-nopeus",
+        "JKV alkaa",
+        "JKV p\u00c3\u00a4\u00c3\u00a4ttyy"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Baliisiryhm\u00c3\u00a4merkki (kuva 1.28:1) osoittaa kohdan, jolla raiteella on junien kulunvalvontaj\u00c3\u00a4rjestelm\u00c3\u00a4n toisto- tai fiktiivipiste."
+      },
+      "image": "img/img27.jpg",
+      "number": 27,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Matkustajalaiturin ennakkomerkki",
+        "Linjavaihdemerkki",
+        "Tasoristeyksen lis\u00c3\u00a4kilpi",
+        "Raiteen rajamerkki",
+        "Tunnelin nimikilpi",
+        "Rataverkon haltijuuden raja"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Matkustajalaiturin ennakkomerkki (kuva 1.29:1) tarkoittaa, ett\u00c3\u00a4 sen j\u00c3\u00a4lkeen olevalla seisakkeella tai liikennepaikalla on matkustajalaituri tai -laitureita, joista l\u00c3\u00a4hin alkaa 400\u00e2\u20ac\u201c800 m et\u00c3\u00a4isyydell\u00c3\u00a4 merkist\u00c3\u00a4."
+      },
+      "image": "img/img28.jpg",
+      "number": 28,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Matkustajalaiturin ennakkomerkki",
+        "Linjavaihdemerkki",
+        "Tasoristeyksen lis\u00c3\u00a4kilpi",
+        "Rataverkon haltijuuden raja",
+        "Tunnelin nimikilpi",
+        "Raiteen rajamerkki",
+        "Valtion rataverkon raja"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Rataverkon haltijuuden raja -merkki (kuva 1.30:1) osoittaa rataverkon haltijuuden vaihtumisen."
+      },
+      "image": "img/img29.jpg",
+      "number": 29,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Linjavaihdemerkki",
+        "Tasoristeyksen lis\u00c3\u00a4kilpi",
+        "Rataverkon haltijuuden raja",
+        "Matkustajalaiturin ennakkomerkki",
+        "Tunnelin nimikilpi",
+        "Raiteen rajamerkki"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Tasoristeyksen lis\u00c3\u00a4kilpi (kuva 1.31:1) osoittaa rautatien tasoristeyksen nimen ja sijainnin."
+      },
+      "image": "img/img30.jpg",
+      "number": 30,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen rajamerkki",
+        "Raiteensulun merkki",
+        "Raiteen rajamerkki",
+        "L\u00c3\u00a4hestymismerkki",
+        "Vaihto- ja rataty\u00c3\u00b6rajoite",
+        "Yleinen varoitusmerkki",
+        "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Raiteen rajamerkki (kuva 1.32:1) osoittaa kyseisen raiteen k\u00c3\u00a4ytt\u00c3\u00b6pituuden p\u00c3\u00a4\u00c3\u00a4ttymisen/alkamisen."
+      },
+      "image": "img/img31.jpg",
+      "number": 31,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Matkustajalaiturin ennakkomerkki",
+        "Raiteen rajamerkki",
+        "Tasoristeyksen lis\u00c3\u00a4kilpi",
+        "Rataverkon haltijuuden raja",
+        "Linjavaihdemerkki",
+        "Tunnelin nimikilpi"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Tunnelin nimikilpi (kuva 1.33:1) osoittaa rautatietunnelin nimen ja pituuden."
+      },
+      "image": "img/img32.jpg",
+      "number": 32,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen rajamerkki",
+        "Raiteensulun merkki",
+        "Raiteen rajamerkki",
+        "L\u00c3\u00a4hestymismerkki",
+        "Vaihto- ja rataty\u00c3\u00b6rajoite",
+        "Yleinen varoitusmerkki",
+        "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Yleinen varoitusmerkki (kuva 1.34:1) osoittaa kohdan, jossa on annettava vihellinopaste Juna tulee."
+      },
+      "image": "img/img33.jpg",
+      "number": 33,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen rajamerkki",
+        "Vaihto- ja rataty\u00c3\u00b6rajoite",
+        "L\u00c3\u00a4hestymismerkki",
+        "Raiteen rajamerkki",
+        "Raiteensulun merkki",
+        "Yleinen varoitusmerkki",
+        "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Vaihto- ja rataty\u00c3\u00b6rajoite -merkki (kuva 1.35:1) osoittaa, ett\u00c3\u00a4 raiteella on vaihtotai rataty\u00c3\u00b6t\u00c3\u00a4 koskeva rajoite"
+      },
+      "image": "img/img34.jpg",
+      "number": 34,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Suojastusopastimen tunnus",
+        "Raideopastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen tunnus",
+        "Tasoristeysopastimen tunnus",
+        "Esiopastimen tunnus",
+        "Lukitusopastimen tunnus"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Raideopastimen tunnus (kuva 1.36:1) osoittaa kyseisen raideopastimen tunnuksen."
+      },
+      "image": "img/img35.jpg",
+      "number": 35,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Suojastusopastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen tunnus",
+        "Tasoristeysopastimen tunnus",
+        "Raideopastimen tunnus",
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Esiopastimen tunnus",
+        "Lukitusopastimen tunnus"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus (kuva 1.37:1) osoittaa kyseisen p\u00c3\u00a4\u00c3\u00a4opastimen tunnuksen. Merkin keltainen taustav\u00c3\u00a4ri osoittaa, ett\u00c3\u00a4 p\u00c3\u00a4\u00c3\u00a4opastin on liikennepaikkojen v\u00c3\u00a4lisell\u00c3\u00a4 osuudella. Merkin valkoinen taustav\u00c3\u00a4ri osoittaa, ett\u00c3\u00a4 kyseinen p\u00c3\u00a4\u00c3\u00a4opastin on liikennepaikalla tai sen rajalla"
+      },
+      "image": "img/img36.jpg",
+      "number": 36,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Esiopastimen tunnus",
+        "Suojastusopastimen tunnus",
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen tunnus",
+        "Raideopastimen tunnus",
+        "Lukitusopastimen tunnus",
+        "Tasoristeysopastimen tunnus"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Suojastusopastimen tunnus (kuva 1.38:1) osoittaa kyseisen suojastusopastimen tunnuksen."
+      },
+      "image": "img/img37.jpg",
+      "number": 37,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Esiopastimen tunnus",
+        "Raideopastimen tunnus",
+        "Suojastusopastimen tunnus",
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Tasoristeysopastimen tunnus",
+        "Lukitusopastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen tunnus"
+      ],
+      "correct": {
+        "index": 6,
+        "text": "Yhdistelm\u00c3\u00a4opastimen tunnus (kuva 1.39:1) osoittaa kyseisen yhdistelm\u00c3\u00a4opastimen tunnuksen. Merkin keltainen taustav\u00c3\u00a4ri osoittaa, ett\u00c3\u00a4 yhdistelm\u00c3\u00a4opastin on liikennepaikkojen v\u00c3\u00a4lisell\u00c3\u00a4 osuudella. Merkin valkoinen taustav\u00c3\u00a4ri osoittaa, ett\u00c3\u00a4 yhdistelm\u00c3\u00a4opastin on liikennepaikalla tai sen rajalla"
+      },
+      "image": "img/img38.jpg",
+      "number": 38,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen tunnus",
+        "Lukitusopastimen tunnus",
+        "Raideopastimen tunnus",
+        "Esiopastimen tunnus",
+        "Suojastusopastimen tunnus",
+        "Tasoristeysopastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen et\u00c3\u00a4isyysmerkki"
+      ],
+      "correct": {
+        "index": 7,
+        "text": "Yhdistelm\u00c3\u00a4opastimen et\u00c3\u00a4isyysmerkki (kuva 1.40:1) osoittaa et\u00c3\u00a4isyyden seuraavaan yhdistelm\u00c3\u00a4opastimeen, kun kahden per\u00c3\u00a4kk\u00c3\u00a4isen yhdistelm\u00c3\u00a4opastimen v\u00c3\u00a4linen et\u00c3\u00a4isyys on alle 800 m ja kun molemmat opastimet voivat olla junakulkutien p\u00c3\u00a4\u00c3\u00a4tt\u00c3\u00a4vi\u00c3\u00a4 opastimia."
+      },
+      "image": "img/img39.jpg",
+      "number": 39,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Esiopastimen tunnus",
+        "Tasoristeysopastimen tunnus",
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen tunnus",
+        "Raideopastimen tunnus",
+        "Suojastusopastimen tunnus",
+        "Lukitusopastimen tunnus"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Tasoristeysopastimen tunnus (kuva 1.41:1) osoittaa kyseisen tasoristeysopastimen tunnuksen."
+      },
+      "image": "img/img40.jpg",
+      "number": 40,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Lukitusopastimen tunnus",
+        "Esiopastimen tunnus",
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Yhdistelm\u00c3\u00a4opastimen tunnus",
+        "Tasoristeysopastimen tunnus",
+        "Suojastusopastimen tunnus",
+        "Raideopastimen tunnus"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Esiopastimen tunnus (kuva 1.42:1) osoittaa kyseisen esiopastimen tunnuksen."
+      },
+      "image": "img/img41.jpg",
+      "number": 41,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Yhdistelm\u00c3\u00a4opastimen tunnus",
+        "P\u00c3\u00a4\u00c3\u00a4opastimen tunnus",
+        "Lukitusopastimen tunnus",
+        "Suojastusopastimen tunnus",
+        "Raideopastimen tunnus",
+        "Tasoristeysopastimen tunnus",
+        "Esiopastimen tunnus"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Lukitusopastimen tunnus (kuva 1.43:1) osoittaa kyseisen lukitusopastimen tunnuksen."
+      },
+      "image": "img/img42.jpg",
+      "number": 42,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Risteysvaihteen tunnus",
+        "Vaihteen tunnus",
+        "Mustavalkoinen Vaihteen merkki",
+        "Risteysvaihteen asennonilmaisin",
+        "Vaihteen merkki",
+        "Keltavalkoinen Vaihteen merkki"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Merkin pystysuuntainen numero ja valkoinen tausta osoittavat, ett\u00c3\u00a4 merkin tarkoittama vaihde on suoralle raiteelle. Merkin pystysuuntainen teksti \"Perus\" valkoisella taustalla tarkoittaa, ett\u00c3\u00a4 kyseisen vaihteen perusasento on suoralle raiteelle. Merkin vaakasuuntainen numero ja keltainen tausta osoittavat, ett\u00c3\u00a4 merkin tarkoittama vaihde on poikkeavalle raiteelle. Merkin vaakasuuntaisen teksti \"Perus\" tarkoittaa, ett\u00c3\u00a4 kyseisen vaihteen perusasento on poikkeavalle raiteelle."
+      },
+      "image": "img/img43.jpg",
+      "number": 43,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Mustavalkoinen Vaihteen merkki",
+        "Risteysvaihteen tunnus",
+        "Risteysvaihteen asennonilmaisin",
+        "Vaihteen tunnus",
+        "Vaihteen merkki"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Kun vaihteen merkist\u00c3\u00a4 n\u00c3\u00a4kyy: - valkoinen nuoli mustalla pohjalla, osoittaa se vastavaihteen johtavan poikkeavalle raiteelle - pystyasennossa oleva suorakaide, johtaa vaihde suoralle raiteelle - valkoinen ympyr\u00c3\u00a4 mustalla pohjalla, osoittaa se my\u00c3\u00b6t\u00c3\u00a4vaihteen johtavan poikkeavalle raiteelle"
+      },
+      "image": "img/img44.jpg",
+      "number": 44,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen tunnus",
+        "Vaihteen merkki",
+        "Risteysvaihteen tunnus",
+        "Mustavalkoinen Vaihteen merkki",
+        "Risteysvaihteen asennonilmaisin"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vaihteen tunnus (kuva 1.45:1) osoittaa kyseisen vaihteen numeron. Merkki\u00c3\u00a4 k\u00c3\u00a4ytet\u00c3\u00a4\u00c3\u00a4n vaihteissa, joissa ei ole Vaihteen merkki\u00c3\u00a4. Merkki\u00c3\u00a4 ei k\u00c3\u00a4ytet\u00c3\u00a4 risteysvaihteissa."
+      },
+      "image": "img/img45.jpg",
+      "number": 45,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen merkki",
+        "Risteysvaihteen tunnus",
+        "Risteysvaihteen asennonilmaisin",
+        "Mustavalkoinen Vaihteen merkki",
+        "Vaihteen tunnus"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Risteysvaihteen tunnus (kuva 1.46:1) osoittaa risteysvaihteen numeron ja kielisovituksen. Kirjainyhdistelm\u00c3\u00a4 a/b tai c/d osoittaa risteysvaihteen kielisovituksen."
+      },
+      "image": "img/img46.jpg",
+      "number": 46,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen tunnus",
+        "Vaihteen merkki",
+        "Risteysvaihteen asennonilmaisin",
+        "Mustavalkoinen Vaihteen merkki",
+        "Risteysvaihteen tunnus"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Risteysvaihteen asennonilmaisin (kuva 1.47:1) osoittaa kaksipuolisessa risteysvaihteessa liikenn\u00c3\u00b6it\u00c3\u00a4viss\u00c3\u00a4 olevan raideyhteyden."
+      },
+      "image": "img/img47.jpg",
+      "number": 47,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen rajamerkki",
+        "Vaihto- ja rataty\u00c3\u00b6rajoite",
+        "L\u00c3\u00a4hestymismerkki",
+        "Raiteen rajamerkki",
+        "Raiteensulun merkki",
+        "Yleinen varoitusmerkki",
+        "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Raiteensulun merkki (kuva 1.48:1) osoittaa kyseisen raiteensulun tai pys\u00c3\u00a4ytyslaitteen numeron ja asennon. Merkin punainen taustav\u00c3\u00a4ri ja vaakasuuntainen numero osoittavat, ett\u00c3\u00a4 raiteensulku tai pys\u00c3\u00a4ytyslaite on liikenn\u00c3\u00b6innin est\u00c3\u00a4v\u00c3\u00a4ss\u00c3\u00a4 asennossa. Merkin valkoinen v\u00c3\u00a4ri ja pystysuuntainen numero osoittavat, ett\u00c3\u00a4 raiteensulku tai pys\u00c3\u00a4ytyslaite ei ole liikenn\u00c3\u00b6innin est\u00c3\u00a4v\u00c3\u00a4ss\u00c3\u00a4 asennossa."
+      },
+      "image": "img/img48.jpg",
+      "number": 48,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen rajamerkki",
+        "Vaihto- ja rataty\u00c3\u00b6rajoite",
+        "L\u00c3\u00a4hestymismerkki",
+        "Raiteen rajamerkki",
+        "Raiteensulun merkki",
+        "Yleinen varoitusmerkki",
+        "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta"
+      ],
+      "correct": {
+        "index": 6,
+        "text": "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta (kuva 1.50:1) osoittaa kohdan, jota juna ei saa ohittaailman: \u00e2\u02c6\u2019 l\u00c3\u00a4ht\u00c3\u00b6lupaa tai \u00e2\u02c6\u2019 Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohdan yhteydess\u00c3\u00a4 olevan raideopastimen Aja varovasti \u00e2\u20ac\u201copastetta silloin, kun junalle on annettu ennakkotieto kulkutien p\u00c3\u00a4\u00c3\u00a4ttymisest\u00c3\u00a4 Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohtaan tai \u00e2\u02c6\u2019 Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta -tunnuksen osoittaman p\u00c3\u00a4\u00c3\u00a4opastimen opastetta, joka mahdollistaa opastimen ohittamisen, silloin kun junalle on annettu ennakkotieto kulkutien p\u00c3\u00a4\u00c3\u00a4ttymisest\u00c3\u00a4 Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohtaan."
+      },
+      "image": "img/img49.jpg",
+      "number": 49,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen rajamerkki",
+        "Vaihto- ja rataty\u00c3\u00b6rajoite",
+        "L\u00c3\u00a4hestymismerkki",
+        "Raiteen rajamerkki",
+        "Raiteensulun merkki",
+        "Yleinen varoitusmerkki",
+        "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "L\u00c3\u00a4hestymismerkki (kuva 1.51:1) osoittaa, ett\u00c3\u00a4 merkist\u00c3\u00a4 50\u00e2\u20ac\u201c300 metrin p\u00c3\u00a4\u00c3\u00a4ss\u00c3\u00a4 junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta. Mik\u00c3\u00a4li L\u00c3\u00a4hestymismerkin et\u00c3\u00a4isyys Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohdasta on 300\u00e2\u20ac\u201c1200 metri\u00c3\u00a4, pit\u00c3\u00a4\u00c3\u00a4 merkin yhteydess\u00c3\u00a4 k\u00c3\u00a4ytt\u00c3\u00a4\u00c3\u00a4 Et\u00c3\u00a4isyytt\u00c3\u00a4 ilmoittavaa lis\u00c3\u00a4kilpe\u00c3\u00a4"
+      },
+      "image": "img/img50.jpg",
+      "number": 50,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Vaihteen rajamerkki",
+        "Vaihto- ja rataty\u00c3\u00b6rajoite",
+        "L\u00c3\u00a4hestymismerkki",
+        "Raiteen rajamerkki",
+        "Raiteensulun merkki",
+        "Yleinen varoitusmerkki",
+        "Junakulkutien p\u00c3\u00a4\u00c3\u00a4tekohta"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vaihteen rajamerkki (kuva 2.1:1) osoittaa kuvan 2.1:2 mukaisesti kohdan, johon saakka kalusto voi olla raiteella est\u00c3\u00a4m\u00c3\u00a4tt\u00c3\u00a4 viereisen raiteen liikenn\u00c3\u00b6inti\u00c3\u00a4."
+      },
+      "image": "img/img51.jpg",
+      "number": 51,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Virroitinasettelun huomiomerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Eristysmerkki",
+        "Valtion rataverkon raja",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Runkomerkki",
+        "Vaunujen kohdistuspaikka",
+        "Raidenumeromerkki",
+        "ATUn rajoitusmerkki"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Pys\u00c3\u00a4hdyspaikkamerkki (2.2:1) osoittaa kaukoliikenteen matkustajajunan pys\u00c3\u00a4htymiskohdan suhteessa matkustajalaituriin."
+      },
+      "image": "img/img52.jpg",
+      "number": 52,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Valtion rataverkon raja",
+        "Runkomerkki",
+        "Eristysmerkki",
+        "ATUn rajoitusmerkki",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "Raidenumeromerkki",
+        "Vaunujen kohdistuspaikka",
+        "Virroitinasettelun huomiomerkki"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Runkomerkki (kuva 2.3:1) osoittaa l\u00c3\u00a4hiliikenteen matkustajajunan pys\u00c3\u00a4htymiskohdan suhteessa matkustajalaituriin."
+      },
+      "image": "img/img53.jpg",
+      "number": 53,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Runkomerkki",
+        "ATUn rajoitusmerkki",
+        "Raidenumeromerkki",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Virroitinasettelun huomiomerkki",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "Eristysmerkki",
+        "Vaunujen kohdistuspaikka",
+        "Valtion rataverkon raja"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Et\u00c3\u00a4isyysmerkki (2.4:1) osoittaa kulkusuunnassa kasvavaa et\u00c3\u00a4isyytt\u00c3\u00a4 merkinn\u00c3\u00a4n tarkoittamasta kohteesta, kuten vaa'asta tai vaihteesta."
+      },
+      "image": "img/img54.jpg",
+      "number": 54,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Runkomerkki",
+        "Virroitinasettelun huomiomerkki",
+        "Vaunujen kohdistuspaikka",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Raidenumeromerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "ATUn rajoitusmerkki",
+        "Valtion rataverkon raja",
+        "Eristysmerkki"
+      ],
+      "correct": {
+        "index": 7,
+        "text": "ATUn rajoitusmerkki (2.5:1) osoittaa, ett\u00c3\u00a4 raiteen aukean tilan ulottumassa on kiinte\u00c3\u00a4 este, joka on 500\u00e2\u20ac\u201c3000 mm korkeudella l\u00c3\u00a4himm\u00c3\u00a4n kiskon sel\u00c3\u00a4n korkeudesta."
+      },
+      "image": "img/img55.jpg",
+      "number": 55,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Virroitinasettelun huomiomerkki",
+        "Valtion rataverkon raja",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Runkomerkki",
+        "ATUn rajoitusmerkki",
+        "Eristysmerkki",
+        "Raidenumeromerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Vaunujen kohdistuspaikka"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Eristysmerkki (2.6:1) osoittaa eristetyn raideosuuden tai vastaavan rajan. Merkinn\u00c3\u00a4ss\u00c3\u00a4 olevan E:n sakarat osoittavat merkinn\u00c3\u00a4n tarkoittamaan raiteeseen"
+      },
+      "image": "img/img56.jpg",
+      "number": 56,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Raidenumeromerkki",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "Eristysmerkki",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "ATUn rajoitusmerkki",
+        "Rataverkon haltijuuden raja",
+        "Runkomerkki",
+        "Vaunujen kohdistuspaikka",
+        "Virroitinasettelun huomiomerkki",
+        "Valtion rataverkon raja"
+      ],
+      "correct": {
+        "index": 10
+      },
+      "image": "img/img57.jpg",
+      "number": 57,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Veturin ohjaamon kohdistuspaikka",
+        "Runkomerkki",
+        "Eristysmerkki",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Virroitinasettelun huomiomerkki",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Valtion rataverkon raja",
+        "ATUn rajoitusmerkki",
+        "Raidenumeromerkki",
+        "Vaunujen kohdistuspaikka"
+      ],
+      "correct": {
+        "index": 8,
+        "text": "Raidenumeromerkki (2.9:1) osoittaa kyseisen raiteen numeron."
+      },
+      "image": "img/img58.jpg",
+      "number": 58,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Et\u00c3\u00a4isyysmerkki",
+        "Runkomerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "Vaunujen kohdistuspaikka",
+        "ATUn rajoitusmerkki",
+        "Raidenumeromerkki",
+        "Valtion rataverkon raja",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Eristysmerkki",
+        "Virroitinasettelun huomiomerkki"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Veturin ohjaamon kohdistuspaikka \u00e2\u20ac\u201cmerkint\u00c3\u00a4 (kuva 2.11:1) osoittaa kohdan, johon asti osittain s\u00c3\u00a4hk\u00c3\u00b6ist\u00c3\u00a4m\u00c3\u00a4t\u00c3\u00b6n raide on liikenn\u00c3\u00b6it\u00c3\u00a4viss\u00c3\u00a4 pelk\u00c3\u00a4st\u00c3\u00a4\u00c3\u00a4n s\u00c3\u00a4hk\u00c3\u00b6moottorilla varustetulla vetoyksik\u00c3\u00b6ll\u00c3\u00a4, kun merkint\u00c3\u00a4 on kulkusuunnassa vetoyksik\u00c3\u00b6n taaemman ohjaamon sivuikkunan kohdalla. Merkint\u00c3\u00a4\u00c3\u00a4 k\u00c3\u00a4ytet\u00c3\u00a4\u00c3\u00a4n ainoastaan osittain s\u00c3\u00a4hk\u00c3\u00b6ist\u00c3\u00a4m\u00c3\u00a4tt\u00c3\u00b6mill\u00c3\u00a4 kuormausraiteilla"
+      },
+      "image": "img/img59.jpg",
+      "number": 59,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Virroitinasettelun huomiomerkki",
+        "Eristysmerkki",
+        "Runkomerkki",
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Vaunujen kohdistuspaikka",
+        "ATUn rajoitusmerkki",
+        "Raidenumeromerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "Valtion rataverkon raja"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Vaunujen kohdistuspaikka -merkint\u00c3\u00a4 (kohta 2.12:1) osoittaa kohdan, johon raiteen s\u00c3\u00a4hk\u00c3\u00b6istetyn osuuden suunnasta ensimm\u00c3\u00a4isen vaunun etummaiset puskimet asemoidaan. Merkint\u00c3\u00a4\u00c3\u00a4 k\u00c3\u00a4ytet\u00c3\u00a4\u00c3\u00a4n ainoastaan osittain s\u00c3\u00a4hk\u00c3\u00b6ist\u00c3\u00a4m\u00c3\u00a4tt\u00c3\u00b6mill\u00c3\u00a4 kuormausraiteilla."
+      },
+      "image": "img/img60.jpg",
+      "number": 60,
+      "prompt": "?"
+    },
+    {
+      "answers": [
+        "Pys\u00c3\u00a4hdyspaikkamerkki",
+        "Runkomerkki",
+        "Et\u00c3\u00a4isyysmerkki",
+        "Raidenumeromerkki",
+        "Veturin ohjaamon kohdistuspaikka",
+        "ATUn rajoitusmerkki",
+        "Eristysmerkki",
+        "Valtion rataverkon raja",
+        "Vaunujen kohdistuspaikka",
+        "Virroitinasettelun huomiomerkki"
+      ],
+      "correct": {
+        "index": 9,
+        "text": "Virroitinasettelun huomiomerkill\u00c3\u00a4 (kuva 2.13:1) kiinnitet\u00c3\u00a4\u00c3\u00a4n ainoastaan s\u00c3\u00a4hk\u00c3\u00b6\u00c3\u00a4 k\u00c3\u00a4ytt\u00c3\u00b6voimanaan k\u00c3\u00a4ytt\u00c3\u00a4v\u00c3\u00a4n liikkuvan kaluston kuljettajan huomio siihen, kumpaa virroittimista kahdella virroittimella varustetussa yhdess\u00c3\u00a4 tai useammassa vetokalustoyksik\u00c3\u00b6ss\u00c3\u00a4 tulee k\u00c3\u00a4ytt\u00c3\u00a4\u00c3\u00a4 yl\u00c3\u00b6snostettuna siirrett\u00c3\u00a4ess\u00c3\u00a4 tai noudettaessa vaunuja vain osittain s\u00c3\u00a4hk\u00c3\u00b6istetylt\u00c3\u00a4 raiteelta."
+      },
+      "image": "img/img61.jpg",
+      "number": 61,
+      "prompt": "?"
+    }
+  ],
+  "title": "JT Merkit",
+  "url": "https://makethemaker.github.io/JT-MERKIT/"
+}
