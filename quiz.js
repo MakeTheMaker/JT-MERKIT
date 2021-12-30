@@ -174,8 +174,8 @@ var $indicators = $('<ol>')
       // answer dialogue
       if (correct) {
         opts = $.extend(opts, {
-          title: "Nice!",
-          text: "Well done" + (
+          title: "Oikein!",
+          text: "Hienoa" + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
               question.correct.text +
@@ -187,8 +187,8 @@ var $indicators = $('<ol>')
         opts = $.extend(opts, {
           title: "Drat",
           text: (
-            "Nope, not quite right!<br/><br/>" +
-            "The correct answer was \"" +
+            "Väärin!<br/><br/>" +
+            "Oikea vastaus oli \"" +
             question.answers[question.correct.index] + "\"." + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
@@ -219,9 +219,9 @@ var $indicators = $('<ol>')
           if (last_question) {
             $results_title.html(resultsText(state));
             $results_ratio.text(
-              "You got " +
+              "Sinä sait " +
               Math.round(100*(state.correct/state.total)) +
-              "% of the questions correct!"
+              "% kysymyksistä oikein!"
             );
             $twitter_link.attr('href', tweet(state, quiz_opts));
             $facebook_link.attr('href', facebook(state, quiz_opts));
@@ -275,7 +275,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
+    .html('<div id = "social-text">Jaa kyselyn tulos!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -316,19 +316,19 @@ function resultsText(state) {
       text = "Wow&mdash;perfect score!";
       break;
     case (ratio > 0.9):
-      text = "Awesome job, you got most of them right.";
+      text = "Hienoa, sait suurimman osan oikein.";
       break;
     case (ratio > 0.60):
-      text = "Pretty good, we'll say that's a pass.";
+      text = "Melko hyvä, pääsit läpi.";
       break;
     case (ratio > 0.5):
-      text = "Well, at least you got half of them right&hellip;";
+      text = "Noh, ainakin sait puolet oikein&hellip;";
       break;
     case (ratio < 0.5 && ratio !== 0):
-      text = "Looks like this was a tough one, better luck next time.";
+      text = "Vaikeata oli, parempi onni ensi kerralla.";
       break;
     case (ratio === 0):
-      text = "Yikes, none correct. Well, maybe it was rigged?";
+      text = "Huh, ei yhtään oikein. Ehkä testissä oli vikaa?";
       break;
   }
   return text;
@@ -339,10 +339,10 @@ function resultsText(state) {
 function tweet(state, opts) {
 
   var body = (
-    "I got " + state.correct +
-    " out of " + state.total +
-    " on @taxpolicycenter’s \"" + opts.title +
-    "\" quiz. Test your knowledge here: " + opts.url
+    "Minä sain " + state.correct +
+    " / " + state.total +
+    " @ testistä \"" + opts.title +
+    "\" testissä. Testaa oma osaamisesi: " + opts.url
   );
 
   return (
