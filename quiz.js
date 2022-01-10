@@ -185,7 +185,7 @@ var $indicators = $('<ol>')
         });
       } else {
         opts = $.extend(opts, {
-          title: "Drat",
+          title: "Väärin",
           text: (
             "Väärin!<br/><br/>" +
             "Oikea vastaus oli \"" +
